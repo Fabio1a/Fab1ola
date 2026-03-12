@@ -103,13 +103,17 @@ Participación en el desarrollo del front-end de una aplicación para gestión d
 - Sistemas embebidos
 - Análisis de datos
 
+
+<h2>📄 Curriculum</h2>
+
+
+[![Ver CV](https://img.shields.io/badge/Ver%20mi%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](CV%20-%20Fabiola%20Escobedo.pdf)
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
-## 📄 Curriculum
-
-[![Ver CV](https://img.shields.io/badge/Ver%20mi%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](CV%20-%20Fabiola%20Escobedo.pdf)
 
 <p align="center">
 
@@ -138,3 +142,5 @@ Participación en el desarrollo del front-end de una aplicación para gestión d
 </div>
 
 </p>
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
