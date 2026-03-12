@@ -3,5 +3,4 @@
 <h1 align="center">
   Soy Fabiola Escobedo
 </h1>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Bienvenid@ a mi perfil de Github</h3>
