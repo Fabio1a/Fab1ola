@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/logo.png"></p>
+<p align="center"><img src=".ass![logo](https://github.com/user-attachments/assets/7eb0cf0e-1441-4be5-bd73-d544888730bc)
+ets/logo.png"></p>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
