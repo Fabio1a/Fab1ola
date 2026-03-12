@@ -109,7 +109,7 @@ Participación en el desarrollo del front-end de una aplicación para gestión d
 
 ## 📄 Curriculum
 
-[![Ver CV](https://img.shields.io/badge/Ver%20mi%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](CV_Fabiola_Escobedo.pdf)
+[![Ver CV](https://img.shields.io/badge/Ver%20mi%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](CV%20-%20Fabiola%20Escobedo.pdf)
 
 <p align="center">
 
