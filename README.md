@@ -108,8 +108,8 @@ Participación en el desarrollo del front-end de una aplicación para gestión d
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
 ## 📄 Curriculum
-[![CV](https://img.[CV - Fabiola Escobedo.pdf](https://github.com/user-attachments/files/25925943/CV.-.Fabiola.Escobedo.pdf)
-shields.io/badge/Ver%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](assets/CV_Fabiola_Escobedo.pdf)
+
+[![Ver CV](https://img.shields.io/badge/Ver%20mi%20CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](CV_Fabiola_Escobedo.pdf)
 
 <p align="center">
 
